@@ -35,6 +35,8 @@
 
 [How COVID-19 vaccine supply chains emerged in the midst of a pandemic | PIIE](https://www.piie.com/publications/working-papers/how-covid-19-vaccine-supply-chains-emerged-midst-pandemic)
 
+[List of potential MRNA manufacturers in Low and Middle Income Countries](https://accessibsa.org/mrna/)
+
 ## Vaccine Access
 [COVID-19 Vaccine Access | Knowledge Portal](https://www.knowledgeportalia.org/covid19-vaccine-arrangements)
 
